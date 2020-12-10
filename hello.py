@@ -11,3 +11,10 @@ print(y)
 # its a string
 s = 'i love you my sree'
 print(s)
+
+# Added by Sree
+def testing(x,y):
+  print(x)
+  print(y)
+
+testing(12,34)
