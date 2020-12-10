@@ -8,3 +8,6 @@ def foo(x):
 
 y=foo(12)
 print(y)
+# its a string
+s = 'i love you my sree'
+print(s)
