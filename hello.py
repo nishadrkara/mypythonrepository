@@ -20,3 +20,9 @@ def testing(x,y):
 testing(12,34)
 
 name = "i love you Sreeekuttaaaaaaaaaaaaa"
+s=10
+y=20
+z=30
+m=45
+print(m)
+
